@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "leo profile.png"
   name             : "Leonie Anna Trutschler"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "I'm a master’s student in philosophy & technology, combining freelance research with work in responsible AI, practical philosophy, and sustainability."
