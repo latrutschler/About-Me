@@ -2,11 +2,13 @@
 title: 'IPeP Fieldnotes: The Nine Delights'
 date: 2025-09-21
 permalink: /posts/the-nine-delights/
+link: "https://jessicaboehme.substack.com/p/ipep-field-notes-news-from-the-institute" 
 tags:
   - reflections
   - IPeP
 ---
 This is a Blogpost I wrote for my work at the Institute for practical ekoPhilosophy. It's about a kind of simple life philosophy that I encountered on pinterest years ago that I've since enjoyed daily. The gist is to find different kinds of joys in everyday life and to create a type of checklist with oneself to fill each day with a few of the different joys life has to offer every day. 
+_Originally published on [Institute for Practical ekoPhilosophy](https://www.institute-pep.com/your-article-url)._
 
 
 Featured Reflection: The Nine Delights
