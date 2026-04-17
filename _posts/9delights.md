@@ -1,5 +1,5 @@
 ---
-title: 'IPeP Fieldnotes: The Nine Delight'
+title: 'IPeP Fieldnotes: The Nine Delights'
 date: 2025-09-21
 permalink: /posts/the-nine-delights/
 tags:
