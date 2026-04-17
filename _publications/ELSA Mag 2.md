@@ -2,7 +2,7 @@
 title: "ELSA Labs Magazine 2: Methodologies"
 collection: publications
 category: editorial
-permalink: /publication/ELSA-Magazine-2
+permalink: /publication/ELSA-Mag-2
 excerpt: 'The second ELSA Magazine dives deeper into ELSA of AI and highlights the breadths of ELSA research methods'
 date: 2024
 venue: 'Brightlands Smart Services Campus & AIC4NL'
