@@ -7,7 +7,7 @@ excerpt: 'The third edition of the ELSA Labs Magazine highlights ColLaboration a
 date: 2025-12-01
 venue: 'AIC4NL, Brightlands Smart Services Campus'
 paperurl: 'https://aic4nl.nl/wp-content/uploads/2025/12/ELSA-Magazine-3rd-Edition-Collaboration.pdf'
-citation: 'Plantinga, M., Aarts, E., Pita Ferreira, P., Groten, M., Wang, H., & Trutschler, L. (2025). ELSA Labs magazine (3rd ed.). Brightlands Smart Services Campus in collaboration with the Netherlands AI Coalition.'
+citation: 'Plantinga, M., Aarts, E., Pita Ferreira, P., Groten, M., Wang, H., & Trutschler, L. (2025). ELSA Labs magazine (3rd ed.). Brightlands Smart Services Campus in collaboration with the Dutch AI Coalition.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The third edition of the ELSA Labs magazine is the most ambitious yet: each lab presents itself, and each lab gives space to at least one of their collaboration partners to share their experiences working within the ELSA Lab consortium. We also interviewed a citizen representative on the importance of involving citizens in research, a thought leader in AI governance and policy, and the Dutch AI Coalition on their views about collaborative research and the future of ELSA. This edition also takes playful twist on the most common terms used in collaborative spaces by doing a Collab Lingo Bingo. 
