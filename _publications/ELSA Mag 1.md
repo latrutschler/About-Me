@@ -1,7 +1,7 @@
 ---
 title: "ELSA Labs Magazine 1"
 collection: publications
-category: Editorial Publications
+category: editorial
 permalink: https://nlaic.com/wp-content/uploads/2023/09/Magazine-ELSA-Labs-september-2023.pdf 
 excerpt: 'This Magazine introduces the ELSA concept and first Dutch ELSA Labs'
 date: September 2023
