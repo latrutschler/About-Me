@@ -2,7 +2,6 @@
 title: 'Silence on Purpose: An Experiment'
 date: 2026-03-20
 permalink: /posts/silence-on-purpose/
-link: "https://jessicaboehme.substack.com/p/ipep-field-notes-news-from-the-institute-213" 
 tags:
   - experiment
   - IPeP
