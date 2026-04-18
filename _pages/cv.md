@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
 * **M.A. Science and Technology Studies**, University of Vienna  
   *October 2024 – present*
 
