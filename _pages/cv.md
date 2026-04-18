@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 * **M.A. Science and Technology Studies**, University of Vienna  
   *October 2024 – present*
 
@@ -23,8 +23,7 @@ redirect_from:
   *2005 – 2018*
 
 
-Work Experience
-======
+## Work Experience
 * **Freelance Institute Strategist & Researcher**  
   *Institute for Practical ekoPhilosophy*  
   *April 2025 – present*  
@@ -56,8 +55,7 @@ Work Experience
   Delivered presentations, facilitated multilingual discussions, and supported student recruitment and events.
 
 
-Skills
-======
+## Skills
 * Project management & coordination  
 * International & intercultural collaboration  
 * Critical thinking & interdisciplinary analysis  
@@ -65,8 +63,7 @@ Skills
 * Transdisciplinary research
 
 
-Languages
-======
+## Languages
 * German — Native  
 * Spanish — Native (certified)  
 * English — C2 (certified)  
@@ -74,28 +71,24 @@ Languages
 * Italian — B2  
 
 
-Publications
-======
+## Publications
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
 
-Talks
-======
+## Talks
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
 
-Service and Leadership
-======
+## Service and Leadership
 * Conference and magazine coordination within the NWO ELSA Labs Network  
 * Facilitation of interdisciplinary collaboration across academia, policy, and industry  
 
 
-References
-======
+## References
 Available upon request  
 Dr. Jessica Böhme  
 Dr. Mirjam Plantinga
