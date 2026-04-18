@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+Researcher and project lead situated at the intersection of sustainability, ethics, technology, and practice. Experienced in coordinating interdisciplinary projects and translating ethical frameworks into applied settings across academia, policy, and industry. Currently centred on (the ELSA Labs Network) [https://www.nwo.nl/en/projects/nwa1332203001] and the (Institute for Practical ekoPhilosophy) [https://www.institute-pep.com/]
+
+## Academic Education
 * **M.A. Science and Technology Studies**, University of Vienna  
   *October 2024 – present*
 
@@ -23,13 +25,13 @@ redirect_from:
   *2005 – 2018*
 
 
-## Work Experience
+## Professional Experience
 * **Freelance Institute Strategist & Researcher**  
   *Institute for Practical ekoPhilosophy*  
   *April 2025 – present*  
   Research and strategic development work at the intersection of ethics, sustainability, and practice.
 
-* **Freelance Project Manager & Researcher**  
+* **Freelance Project Lead & Researcher**  
   *NWO ELSA Labs Network Project*  
   *November 2024 – present*  
   Researching six Dutch ELSA Labs (ethical, legal, and societal aspects of AI); managing newsletter, magazine production, and conference coordination.
@@ -55,7 +57,7 @@ redirect_from:
   Delivered presentations, facilitated multilingual discussions, and supported student recruitment and events.
 
 
-## Skills
+## Core Competencies
 * Project management & coordination  
 * International & intercultural collaboration  
 * Critical thinking & interdisciplinary analysis  
@@ -65,9 +67,9 @@ redirect_from:
 
 ## Languages
 * German — Native  
-* Spanish — Native (certified)  
-* English — C2 (certified)  
-* French — C1 (certified)  
+* Spanish — Native
+* English — C2   
+* French — C1   
 * Italian — B2  
 
 
@@ -77,18 +79,7 @@ redirect_from:
 {% endfor %}</ul>
 
 
-## Talks
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-
 ## Service and Leadership
-* Conference and magazine coordination within the NWO ELSA Labs Network  
-* Facilitation of interdisciplinary collaboration across academia, policy, and industry  
-
-
-## References
-Available upon request  
-Dr. Jessica Böhme  
-Dr. Mirjam Plantinga
+* Conference, magazine, and network coordination within the Dutch NWO ELSA Labs Network
+* Facilitation of interdisciplinary collaboration across academia, policy, and industry
+  
