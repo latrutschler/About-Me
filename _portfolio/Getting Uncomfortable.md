@@ -1,7 +1,11 @@
 ---
 title: "Getting Uncomfortable"
-excerpt: "A One-Page Take on A RPG that asks players to get familiar with discomfort"
+excerpt: "A one-page RPG about discomfort, honesty, and constructive ethical experimentation."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A one-page roleplaying game designed as a playful but self-reflexive exercise in lived practical philosophy.
+
+The game invites players to engage with discomfort in small, constructive ways through truths, dares, and meta-reflection. It was developed as part of a university assignment.
+
+[See the Full Game](/files/getting-uncomfortable.png)
