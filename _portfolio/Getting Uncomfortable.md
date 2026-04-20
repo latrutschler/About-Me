@@ -4,8 +4,22 @@ excerpt: "A one-page RPG about discomfort, honesty, and constructive ethical exp
 collection: portfolio
 ---
 
-A one-page roleplaying game designed as a playful but self-reflexive exercise in lived practical philosophy.
+![Preview of Getting Uncomfortable](/images/getting-uncomfortable-preview.png)
 
-The game invites players to engage with discomfort in small, constructive ways through truths, dares, and meta-reflection. It was developed as part of a university assignment.
+## Overview
 
-[See the Full Game](/files/getting-uncomfortable.png)
+*Getting Uncomfortable* is a one-page RPG designed to help players explore honesty, courage, and self-awareness through structured play.
+
+## Context
+
+I created this piece for a university final assignment in lived practical philosophy. The aim was to design something playful, reflective, and usable.
+
+## What it does
+
+- Uses dice instead of cards
+- Combines truth, dare, and meta-reflection
+- Encourages constructive discomfort rather than spectacle
+
+## File
+
+[Download / view the full version](/files/getting-uncomfortable.png)
