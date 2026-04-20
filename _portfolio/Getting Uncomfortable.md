@@ -1,25 +1,21 @@
 ---
 title: "Getting Uncomfortable"
-excerpt: "A one-page RPG about discomfort, honesty, and constructive ethical experimentation."
+excerpt: "A one-page RPG exploring discomfort, honesty, and practical self-reflection."
 collection: portfolio
 ---
 
-![Preview of Getting Uncomfortable](/images/getting-uncomfortable-preview.png)
+![Preview of Getting Uncomfortable]({{ base_path }}/images/getting-uncomfortable-preview.png)
 
 ## Overview
 
-*Getting Uncomfortable* is a one-page RPG designed to help players explore honesty, courage, and self-awareness through structured play.
+*Getting Uncomfortable* is a one-page RPG created for a university final assignment in a storytelling for the digital humanities class @The Univeristy of Alberta.
 
-## Context
+Using dice-based prompts, it invites players to engage with discomfort in playful but constructive ways through truths, dares, and meta-reflection.
 
-I created this piece for a university final assignment in lived practical philosophy. The aim was to design something playful, reflective, and usable.
+## Focus
 
-## What it does
-
-- Uses dice instead of cards
-- Combines truth, dare, and meta-reflection
-- Encourages constructive discomfort rather than spectacle
+This project explores how games can function as small ethical laboratories: spaces for experimentation, self-observation, and deliberate practice.
 
 ## File
 
-[Download / view the full version](/files/getting-uncomfortable.png)
+[View the full version]({{ base_path }}/files/getting-uncomfortable.png)
