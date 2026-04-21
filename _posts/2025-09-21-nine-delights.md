@@ -12,7 +12,11 @@ _Originally published on [Institute for Practical ekoPhilosophy](https://www.ins
 
 Featured Reflection: The Nine Delights
 ======
-As an avid pinterester, I derive immense inspiration and wisdom from my Pinterest feed, and occasionally, I come across content that feels like nuggets of gold. (See below a snapshot of my typical pinterest feed.) The Nine Delights is, to me, a way to enjoy and find meaning in each day — a reminder of how many different ways there are to have a good day, to find pleasure or meaning in a moment. Sure, peak experiences are magnificent and often fill us with a sense of awe that feels monumental and life-altering. But life is made up of minutes, hours, and days — of the ordinary. And to me, it’s just as important to curate a daily life — an Alltag (literally: all day), as we say in German — as it is to seek out those peak experiences that make existence feel iridescent.
+As an avid pinterester, I derive immense inspiration and wisdom from my Pinterest feed, and occasionally, I come across content that feels like nuggets of gold. (See below a snapshot of my typical pinterest feed.) 
+<p align="center">
+  <img src="/About-Me/images/nd1.webp" width="500">
+</p>
+The Nine Delights is, to me, a way to enjoy and find meaning in each day — a reminder of how many different ways there are to have a good day, to find pleasure or meaning in a moment. Sure, peak experiences are magnificent and often fill us with a sense of awe that feels monumental and life-altering. But life is made up of minutes, hours, and days — of the ordinary. And to me, it’s just as important to curate a daily life — an Alltag (literally: all day), as we say in German — as it is to seek out those peak experiences that make existence feel iridescent.
 
 The Nine Delights image as a life philosophy was one of those nuggets of gold.
 
